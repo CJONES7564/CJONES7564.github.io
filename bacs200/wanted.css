@@ -1,7 +1,7 @@
 /*
 *
 {
-	border: 1px purple;
+	border: 1px red;
 }
 */
 :root
@@ -23,7 +23,7 @@ header
 header h1
 {
 	font-size:  60pt;
-	margin-top:  12px;
+	margin-top:  15px;
 	margin-bottom: 0;
 }
 header h2
@@ -34,13 +34,13 @@ header h2
 }
 main h1
 {
-	font-size:  70pt;
+	font-size:  75pt;
 	font-family: 'copperplate', fantasy;
 	margin: 0;
 }
 h1+h2
 {
-	margin-top: -10px;
+	margin-top: -20px;
 }
 main h2
 {
