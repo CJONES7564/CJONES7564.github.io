@@ -4,30 +4,12 @@ body{
 .class-for-index {
 	color: gold;
 }
-.class-for-profile{
-	color: gold;
-}
-.class-for-amuse{
-	color: gold;
-}
-.class-for-educate{
-	color: gold;
-}
-.class-for-superhero{
-	color: gold;
-}
-.class-for-wanted{
-	color: red;
-}
-.class-for-blog{
-	color: purple;
-}
 {
     text-align: center;
 }
 header
 {
-    background-color: gold;
+    background-color: red;
     font-size: 30px;
 }
 ul
