@@ -12,7 +12,7 @@ body{
 }
 header
 {
-    background-color: green;
+    background-color: gold;
     font-size: 30px;
 }
 tfoot
@@ -20,7 +20,7 @@ tfoot
     background-color: #3f87a6;
     color: #fff;
 }
-h3 /*Alex Hart*/
+h3
 {
     text-decoration-line: underline;
     text-decoration-line: bold;
@@ -50,7 +50,7 @@ main
 }
 th+td
 {
-   border-top: 3px solid green;
+   border-top: 3px solid gold;
 }
 conclusion 
 {
