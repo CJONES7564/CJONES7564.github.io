@@ -44,8 +44,8 @@ h3
 	float: left;
 }
 h2+p::first-letter {
-    color: white;
-    background-color: darkblue;
+    color: Gold;
+    background-color: red;
     border-radius: 2px;
     box-shadow: 3px 3px 0 gold;
     font-size: 250%;
