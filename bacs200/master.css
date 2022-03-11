@@ -37,7 +37,8 @@ h2
 	font-family: copperplate, fantasy;
 	font-size: 20px;
 }
-marker {
+marker 
+{
 	color: gold;
 }
 tbody {
@@ -62,7 +63,8 @@ th{
     background-color: antiquewhite;
     font-size: 40px;
 }
-h3 {
+h3 
+{
 	color: gold;
 	float: left;
 }
