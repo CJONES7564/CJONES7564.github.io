@@ -13,10 +13,10 @@ header
     font-size: 30px;
 }
 @font-face {
-  font-family: 'Engry';
-  src: url('Engry.eot');
-  src: local('Engry Web Regular'), local('Engry Web'),
-         url('EngryWeb.otf') format('opentype');
+  font-family: "Engry";
+  src: url("Engry.eot");
+  src: local("Engry Web Regular"), local("Engry Web"),
+         url("EngryWeb.otf") format("opentype");
 }
 ul
 {
