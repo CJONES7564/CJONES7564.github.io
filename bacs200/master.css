@@ -43,9 +43,15 @@ h3
 	color: gold;
 	float: left;
 }
-p
-{
-	color: gold;
+h2+p::first-letter {
+    color: white;
+    background-color: darkblue;
+    border-radius: 2px;
+    box-shadow: 3px 3px 0 gold;
+    font-size: 250%;
+    padding: 6px 3px;
+    margin-right: 6px;
+    float: left;
 }
 iframe
 {
