@@ -15,60 +15,6 @@ header
     background-color: gold;
     font-size: 30px;
 }
-tfoot
-{
-    background-color: #3f87a6;
-    color: #fff;
-}
-h3
-{
-    text-decoration-line: underline;
-    text-decoration-line: bold;
-    font-size:26pt;
-    padding:10px;
-    border: thick solid gold;
-    background-color:gold;
-    font-family: fantasy;
-}
-footer {
-    font-size: 15pt;
-    color:gray;
-    font-style:italic;
-    font-family:Verdana, sans-serif;
-}
-em
-{
-    border: 5px dashed silver;
-    font-size: 50pt;
-}
-main
-{
-    color: purple;
-    font-family: Georgia;
-    font-weight: normal;
-    font-style: normal
-}
-th+td
-{
-   border-top: 3px solid gold;
-}
-conclusion 
-{
-    text-color: gold;
-}
-caption {
-    text-align: left;
-}
-td
-{
-border: 1px solid gold;
-padding: 0.5rem;
-text-align: center;
-}
-mark
-{
-    background-color:rgb(170, 255, 0);
-}
 h1+h2 {
     text-align: center;
 }
