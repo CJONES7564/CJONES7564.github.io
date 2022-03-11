@@ -28,6 +28,9 @@ h1
     margin-left: 0px;
     margin-right: 4px;
 }
+marker {
+	color: gold;
+}
 tbody {
     background-color: #ff91a4;
     text-align: center;
@@ -35,10 +38,6 @@ tbody {
     padding: 10px;
     border: 2px solid #000000; 
 
-}
-t foot + td {
-    vertical-align: middle;
-    border-color: gold;
 }
 * {
     margin: 10px;
@@ -53,22 +52,6 @@ th{
     margin-bottom: grey 10px;
     background-color: antiquewhite;
     font-size: 40px;
-}
-header h1
-{
-    font-size: 35pt;
-    text-decoration: underline;
-    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-}
-h2+p::first-letter {
-    color: white;
-    background-color: darkblue;
-    border-radius: 2px;
-    box-shadow: 3px 3px 0 gold;
-    font-size: 250%;
-    padding: 6px 3px;
-    margin-right: 6px;
-    float: left;
 }
 h3 {
 	color: gold;
