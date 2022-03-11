@@ -106,7 +106,7 @@ tbody {
 }
 t foot + td {
     vertical-align: middle;
-    border-color: pink;
+    border-color: gold;
 }
 * {
     margin: 10px;
